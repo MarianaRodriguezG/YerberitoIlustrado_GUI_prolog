@@ -1,0 +1,2 @@
+Una vez compliado el programa en Prolog, Este sistema corre con la siguiente instrucción:
+start.
